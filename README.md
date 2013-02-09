@@ -1,0 +1,1 @@
+This is the first README of a Git repo
